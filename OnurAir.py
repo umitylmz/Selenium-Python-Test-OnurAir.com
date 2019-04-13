@@ -121,7 +121,7 @@ actions.send_keys(Keys.ESCAPE)
 actions.perform()
 print("CUSTOMER INFORMATION DONE")
 
-print("QUIT IN 5 SECS")
+print("QUIT IN 10 SECS")
 time.sleep(10)
 driver.quit()
 
